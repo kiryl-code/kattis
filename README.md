@@ -1,0 +1,1 @@
+# [Lost In The Woods](https://open.kattis.com/problems/lostinthewoods)
